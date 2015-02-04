@@ -1,6 +1,6 @@
 This project lets you build a war file with dynamic version and context without changing source code.
 
-Waht you need
+What you need
 ==
 
 * A jdk 1.7+
