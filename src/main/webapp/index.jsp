@@ -14,12 +14,12 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>App name[${contextname}] ${appversion} VERSION</title>
+    <title>EAP Demo App</title>
 </head>
 <body>
-<h1>App name[${contextname}] ${appversion} VERSION</h1>
+<h1>EAP Demo Web App</h1>
 
-<p>You have visited this context [${contextname}] <%= counter %> times.</p>
+<p>You have visited this app <%= counter %> times.</p>
 <br/>
 
 <p>This page is being served from <b><%= request.getServerName() %>:<%= request.getServerPort() %>
